@@ -1,0 +1,9 @@
+.container-background {
+    margin-top: 100px;
+    background: #FAFAFA;
+    padding: 20px;
+}
+
+.error {
+    color: #FF0000;
+}
